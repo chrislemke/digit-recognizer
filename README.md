@@ -1,6 +1,6 @@
 # Digit-Recognizer: The `print('hello world')` of machine learning
 
-The indea in this notebook is to improve the "Hello world" of machine learning using Keras tuner. 
+The idea in this notebook is to improve the "Hello world" of machine learning using Keras tuner. 
 To save precious time and to speed up and simplify the process of choosing the right hyperparameters of the model, 
 it is possible to use a tuner. Kera's relatively new library is well suited for this. 
 It allows to automatically play through different parameters and at the end - very conveniently - spits out the desired number of best models. 
