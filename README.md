@@ -7,25 +7,24 @@ It allows to automatically play through different parameters and at the end - ve
 These can then be processed in the further course.
 
 ## Content:
-Introduction
-Preprocess the data
-2.1. Load data
-2.2. Prepare data
-2.3. X_train overview
-2.4. y_train overview
-2.5. Normalize, reshape and split data
-2.6. Draw some digits
-Data augmentation
-Hyperparameter tuning
-4.1. Build hypermodel
-4.2. Hyperband tuner
-4.3. Tuner search
-4.4. Best models
-Fit the model
-5.1. Summaries of best models
-5.2. Select the model
-5.3. Callbacks
-5.4. Fit the model
-Plot and evaluate the results
-Predict
-Tensorboard
+1. **Introduction**
+2. **Preprocess the data**
+    * 2.1. Load data
+    * 2.2. Prepare data
+    * 2.3. Format y_train
+    * 2.4. Normalize, reshape and split data
+    * 2.5 . Draw some digits
+3. **Data augmentation**
+4. **Hyperparameter tuning**
+    * 4.1. Build hypermodel
+    * 4.2. Hyperband tuner
+    * 4.3. Tuner search
+    * 4.4. Best models
+5. **Fit the model**
+    * 5.1. Summaries of best models
+    * 5.2. Select the model
+    * 5.3. Callbacks
+    * 5.4. Fit the model
+6. **Plot and evaluate the results**
+7. **Predict**
+8. **Tensorboard**
